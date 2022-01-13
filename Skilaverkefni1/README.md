@@ -41,8 +41,9 @@ Til að nota slembitölur í C++ þarf að nota söfnin `cstdlib` og `ctime`. Fa
 
 int main() {
     std::srand(std::time(0));
-    std::cout << std::rand() % 10 << std::endl;
-    // skrifar út eina tölu á bilinu 0 til og með 9
+    for(int i = 0; i < 5; i++) {
+        std::cout << std::rand() % 10 << std::endl; // skrifar út eina tölu á bilinu 0 til og með 9
+    }
     return 0;
 }
 ```
