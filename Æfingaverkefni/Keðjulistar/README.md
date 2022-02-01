@@ -18,7 +18,7 @@ Skrifaðu svo klasann *Bilastaedi*, sem á að halda utan um keðjulista (e. lin
   - Annað sem eyðir fremsta bílnum úr listanum.
   - Hitt tekur inn *id* og eyðir bíl með því *id*.
   - Bæði föllin skulu birta viðeigandi skilaboð ef listinn er tómur eða bíll með því *id* sem leitað var að finnst ekki.
-- Skrifa ákveðinn bíl á skjáinn. Fallið tekur inn *id* á bíl, leitar að honum í listanum og skrifar hann á skjáinn. Finnist enginn bíl með því *id* eða listinn er tómur skal birta viðeigandi skilaboð.
+- Skrifa ákveðinn bíl á skjáinn. Fallið tekur inn *id* á bíl, leitar að honum í listanum og skrifar hann á skjáinn. Finnist enginn bíll með því *id* eða listinn er tómur skal birta viðeigandi skilaboð.
 - Skrifa alla bílana í listanum út á skjáinn.
 - Eyðir (e. destructor).
 
