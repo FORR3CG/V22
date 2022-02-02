@@ -4,7 +4,7 @@
 
 Þetta forrit á að halda utan um bíla á bílastæði. Skiptu öllum klösum í .cpp og .h skrár (nema Node, nóg að hafa það bara í .h skrá).
 
-Notaðu bílastæðaklasann sem þú gerðir í [þessu](https://gist.github.com/gestskoli/6ce1f3234158e12bd5c8fc60de30a0d3) æfingaverkefni. Ef þú ert búinn að týna bílaklasanum þínum getur þú notað [þennan](https://gist.github.com/gestskoli/910f1989c389c963256b6114b62f280f).
+Notaðu bílaklasann sem þú gerðir í [þessu](https://gist.github.com/gestskoli/6ce1f3234158e12bd5c8fc60de30a0d3) æfingaverkefni. Ef þú ert búinn að týna bílaklasanum þínum getur þú notað [þennan](https://gist.github.com/gestskoli/910f1989c389c963256b6114b62f280f).
 
 Búðu svo til *BilaNode* `struct`.
 
