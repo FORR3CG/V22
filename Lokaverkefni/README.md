@@ -89,6 +89,7 @@ Lokaskil
 - Gögnin eru röðuð í listanum. (5 stig)
 - Litir í viðmóti, hér má nota tilbúna lausn t.d. [rlutil](https://github.com/tapio/rlutil). (5 stig)
 - Prenta á skjá ákveðnar gerðir af ferðum. (5 stig)
+- Útfæra afritunarsmið (e. copy constructor) og gildisveitingavirkjann (e. assignment operator) fyrir listaklasann. (5 stig)
 - Annað sem ykkur dettur í hug í samráði við kennara.
 
 ## Prófunargögn
