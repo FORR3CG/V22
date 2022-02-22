@@ -62,7 +62,7 @@ Verkefnið er 100 stig. Fullkomin lausn á grunnkröfum gefur 50 - 70 stig eftir
 
 Hlutaskil
 
-- Gerður klasa fyrir hverja gerð ferðar og svo einn yfirklasi sem heldur utan um gögn sem eru sameiginleg í hinum klösunum.
+- Gerðu klasa fyrir hverja gerð ferðar og svo einn yfirklasi sem heldur utan um gögn sem eru sameiginleg í hinum klösunum.
 - Gerðu getters og setters fyrir allar gagnabreytur klasanna. 
 - Tryggðu að ekki sé hægt að skrá fleiri farþega í ferð en pláss er fyrir.
 - Klasarnir þurfa að geta prentað sjálfa sig á snyrtilega á skjáinn.
